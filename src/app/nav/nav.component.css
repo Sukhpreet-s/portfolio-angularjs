@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster+Two|Share&display=swap");
+
+.logo {
+  font-family: "Lobster Two", cursive;
+  font-size: 2em;
+  /* margin-left: 0.5em; */
+}
+
+.navbar {
+  list-style-type: none;
+  font-size: 1.6em;
+  padding-left: 0;
+  margin: 0;
+  height: 40px;
+  float: right;
+}
+
+.navbar li {
+  padding: 0.2em 0.8em;
+  float: left;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+

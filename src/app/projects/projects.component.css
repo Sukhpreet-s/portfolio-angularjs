@@ -1,0 +1,25 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: left;
+}
+.projectscontainer {
+  margin-bottom: 2em;
+}
+.projectscontainer img,
+.projectscontainer .description {
+  width: 40%;
+  margin: 5%;
+}
+.projectscontainer img {
+  /* width: 30%; */
+}
+.projectscontainer .description {
+  float: right;
+  /* width: 40%; */
+}

@@ -1,0 +1,11 @@
+.nav-background {
+  background: rgb(11, 38, 87);
+  color: white;
+  padding: 0.4em 0;
+}
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
